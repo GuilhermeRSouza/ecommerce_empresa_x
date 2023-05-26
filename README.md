@@ -1,26 +1,26 @@
 # E-commerce empresa  X
 
-Vamos Criar um **e-commerce**, para a *empresa X* e blablabla 
+Vamos Criar um **e-commerce**, para a *empresa X* e blablabla
 
-## Funcionalidades:
+## Funcionalidades
 
-_Checkout, **tela de produto**, Catálogo Home com banner_ 
+_Checkout, **tela de produto**, Catálogo Home com banner_
 
-**Checkout, _tela de produto_, Catálogo, Home com banner**
+**Checkout, *tela de produto*, Catálogo, Home com banner**
 
-###### Melhorias do projeto:
+###### Melhorias do projeto
 
-__Melhoria 1__, __melhoria 2__ 
+**Melhoria 1**, **melhoria 2**
 
-### Linguagem do projeto:
+### Linguagem do projeto
 
-* HTML 
+* HTML
 * CSS
-* JavaScript 
-* PHP 
+* JavaScript
+* PHP
 * MySQL
 
-### Funcionalidades a deselvolver:
+### Funcionalidades a deselvolver
 
 1. Área de membros
     1. Login diferente para grupos de cliente
@@ -28,3 +28,8 @@ __Melhoria 1__, __melhoria 2__
     3. CSS diferentes para grupos de cliente
 2. Integração com outros pagamentos
 3. Sistema de bônus primeira compra
+
+##### Imagem local 
+
+![Logo do Python](img/python.png)
+
