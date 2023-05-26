@@ -35,4 +35,4 @@ _Checkout, **tela de produto**, Catálogo Home com banner_
 
 #### Imagem externa 
 
-![Logo do java](https://www.google.com/url?sa=i&url=https%3A%2F%2Fbr.pinterest.com%2Fpin%2F620370917401218156%2F&psig=AOvVaw0PXzgQaeWaB21f_D0K0xK0&ust=1685219191648000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCKj3jO_ok_8CFQAAAAAdAAAAABAI)
+![Logo do java](https://i.pinimg.com/564x/e9/94/61/e99461fdd5b3db8bdb3081d8acf5e524.jpg)
