@@ -44,3 +44,5 @@ _Checkout, **tela de produto**, Catálogo Home com banner_
 [https://www.horadecodar.com.br](https://www.horadecodar.com.br)
 
 Contribuir principal: https://www.github.com/GuilhermeRSouza
+
+[![logo do java](https://i.pinimg.com/564x/e9/94/61/e99461fdd5b3db8bdb3081d8acf5e524.jpg)]( https://www.github.com/GuilhermeRSouza)
