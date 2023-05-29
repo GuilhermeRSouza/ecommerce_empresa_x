@@ -42,3 +42,5 @@ _Checkout, **tela de produto**, Catálogo Home com banner_
 [Google](https://www.google.com)
 
 [https://www.horadecodar.com.br](https://www.horadecodar.com.br)
+
+Contribuir principal: https://www.github.com/GuilhermeRSouza
